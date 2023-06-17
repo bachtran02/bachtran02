@@ -1,3 +1,3 @@
 # 🐈 Profile 
 
-Discord: **[I'm Peter#1234](https://discordapp.com/users/761308808823570453)**
+Discord: **[im_peterr](https://discordapp.com/users/761308808823570453)**
