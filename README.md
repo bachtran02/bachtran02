@@ -4,7 +4,7 @@ I'm Peter a Data Science/Computer Science student at UC Berkeley. I enjoy coding
 
 Check out my website at [bachtran.dev](https://bachtran.dev)!
 
-<img src="/assets/bongo_cat.gif" width="200px" height="200px" align="right" alt="Bongo Cat">
+<img src="/assets/cat.gif" width="200px" height="200px" align="right" alt="Bongo Cat">
 
 
 ## Tools / Technologies:
