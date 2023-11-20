@@ -1,1 +1,32 @@
- 🐈 My website: **[bachtran.dev](https://www.bachtran.dev)**
+# Welcome!
+
+I'm Peter a Data Science/Computer Science student at UC Berkeley. I enjoy coding to build tools that make life easier. In my free time, I contribute to open-source projects and connect with aspired programmers. I'm also into home-labbing and constantly look to self-host more stuff on my Pi 4 and virtual server.
+
+Check out my website at [bachtran.dev](https://bachtran.dev)!
+
+<img src="/assets/bongo_cat.gif" width="200px" height="200px" align="right" alt="Bongo Cat">
+
+
+## Tools / Technologies:
+<p>
+ <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
+ <img src="https://img.shields.io/badge/-Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=00ADD8" alt="Golang">
+ <img src="https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=openjdk&logoColor=black&color=FFFFFF" alt="Java">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" alt="JavaScript Badge">
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++ Badge">
+ <img src="https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=fff&style=for-the-badge" alt="WireGuard Badge">
+ <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux Badge">
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" alt="Ubuntu Badge">
+ <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge">
+ <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge" alt="Git Badge">
+ <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="GitHub Badge">
+ <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge" alt="Selenium Badge">
+ <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge" alt="Redis Badge">
+ <img src="https://img.shields.io/badge/AIOHTTP-2C5BB4?logo=aiohttp&logoColor=fff&style=for-the-badge" alt="AIOHTTP Badge">
+ <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge" alt="GraphQL Badge">
+ <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" alt="Markdown Badge">
+ <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge" alt="Raspberry Pi Badge">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
+ <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" alt="Discord Badge">
+</p>
