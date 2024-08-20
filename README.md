@@ -1,6 +1,8 @@
 # Welcome!
 
-I'm Peter, a Data Science and Computer Science student at UC Berkeley. I’m passionate about coding, especially when it comes to building tools that make life easier. In my free time, I contribute to open-source projects and connect with fellow programmers. My home lab setup includes a Raspberry Pi 5, a Pi 4, and a VPS server in Los Angeles, where I'm constantly exploring new self-hosting possibilities.
+I'm Peter, a Data Science and Computer Science student at UC Berkeley. I’m passionate about coding, especially when it comes to building tools that make life easier. In my free time, I contribute to open-source projects and connect with fellow programmers.
+
+My home lab setup includes a Raspberry Pi 5, a Pi 4, and a VPS in Los Angeles, where I'm constantly exploring new self-hosting possibilities.
 
 Check out my website at [bachtran.dev](https://bachtran.dev)!
 
