@@ -28,8 +28,7 @@ Check out my website at [bachtran.dev](https://bachtran.dev)!
  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge" atl="Numpy Badge">
  <img src="https://img.shields.io/badge/AIOHTTP-2C5BB4?logo=aiohttp&logoColor=fff&style=for-the-badge" alt="AIOHTTP Badge">
  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge" alt="GraphQL Badge">
-<img src="https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=fff&style=for-the-badge" alt="WireGuard Badge">
- <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker Badge">
+ <img src="https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=fff&style=for-the-badge" alt="WireGuard Badge">
  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5 Badge">
  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" alt="CSS3 Badge">
 </p>
