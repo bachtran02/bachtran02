@@ -1,10 +1,10 @@
 # Welcome!
 
-I'm Peter, a Data Science and Computer Science student at UC Berkeley. I’m passionate about coding, especially when it comes to building tools that make life easier. In my free time, I contribute to open-source projects and connect with fellow programmers.
+I'm Peter, a Computer Science student at UC Berkeley. I’m passionate about coding, especially when it comes to building tools that make life easier. In my free time, I contribute to open-source projects and connect with fellow programmers.
 
-My home lab setup includes a Raspberry Pi 5, a Pi 4, and a VPS in Los Angeles, where I'm constantly exploring new self-hosting possibilities.
+My home lab setup includes a Raspberry Pi 5, a Pi 4, and a VPS in Los Angeles, where I'm constantly exploring new self-hosting possibilities. Check out my setup [here](https://github.com/bachtran02/homelab-config)!.
 
-Check out my website at [bachtran.dev](https://bachtran.dev)!
+Check out my website at [bachtran.dev](https://bachtran.dev)! 
 
 <img src="/assets/cat.gif" width="200px" height="200px" align="right" alt="Bongo Cat">
 
