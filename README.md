@@ -1,6 +1,6 @@
 # Welcome!
 
-I’m Bach Tran, a Computer Science senior at UC Berkeley who enjoys building tools with code that make life simpler. Outside of class, I contribute to open-source projects and connect with fellow programmers. I’m actively exploring new career opportunities, and you can view my [resume here](https://github.com/bachtran02/bachtran_resume/blob/main/assets/bachtran_resume.pdf).
+I’m Bach Tran, a Computer Science senior at UC Berkeley who enjoys building tools that make life simpler. Outside of class, I contribute to open-source projects and connect with fellow programmers. I’m actively exploring new career opportunities, and you can view my [resume here](https://github.com/bachtran02/bachtran_resume/blob/main/assets/bachtran_resume.pdf).
 
 Beyond software, I’m an avid homelabber. My setup includes a self-built PC, a Raspberry Pi 5, a Pi 4, and a virtual server in Los Angeles, all running Ubuntu! I enjoy tinkering with self-hosting projects and exploring new infrastructure setups. You can explore my configurations on [GitHub](https://github.com/bachtran02/homelab-config) or visit my personal site at [bachtran.dev](https://bachtran.dev).
 
